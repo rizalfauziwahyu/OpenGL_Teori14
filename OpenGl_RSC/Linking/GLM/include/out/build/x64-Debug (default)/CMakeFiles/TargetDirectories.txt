@@ -1,0 +1,3 @@
+C:/Users/ASUS TUF/source/repos/OpenGL X86/OpenGL-X86/OpenGl_RSC/Linking/GLM/include/out/build/x64-Debug (default)/CMakeFiles/glm_dummy.dir
+C:/Users/ASUS TUF/source/repos/OpenGL X86/OpenGL-X86/OpenGl_RSC/Linking/GLM/include/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/ASUS TUF/source/repos/OpenGL X86/OpenGL-X86/OpenGl_RSC/Linking/GLM/include/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
